@@ -43,4 +43,4 @@ pip install -r requirements.txt
 
 ## 👩‍💻 Author
 
-Mithra Vinda
+Mithravinda
