@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🚀 Overview
-## 🚀 Overview
 
 An AI-powered movie recommendation system that suggests similar movies using machine learning techniques.
 
