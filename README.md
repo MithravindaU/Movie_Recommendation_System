@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+
 
 ---
 
