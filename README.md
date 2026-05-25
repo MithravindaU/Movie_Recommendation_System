@@ -24,12 +24,6 @@ Cinematch AI is an intelligent movie recommendation system that suggests movies 
 - Similarity-based filtering
 - Fast recommendation engine
 
----
-## ⚙️ Installation
-
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
@@ -38,6 +32,7 @@ pip install -r requirements.txt
 - Netflix-style UI
 - Emotion-based recommendations
 - Real-time trending engine
+- recommendation of same direction 
 
 ---
 
